@@ -16,6 +16,7 @@ for i in range(4,-1,-1):
     
 #%%
 ## Assignment 01
+
 m1 = []
 for i in range(5):
     a = []
@@ -32,8 +33,6 @@ for i in range(5):
     print()
 
 m2 = []
-
-
 for i in range(4):
     a1 = []
     for j in range(5):
